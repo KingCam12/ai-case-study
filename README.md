@@ -1,5 +1,5 @@
 
-# Stability.ai and Stable Diffusion
+                                                                                                        # Stability.ai and Stable Diffusion
 
 ![Banner](Stability.ai.png)
 
