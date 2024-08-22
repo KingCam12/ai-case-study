@@ -9,16 +9,19 @@ Stable Diffusion 3 Medium is the latest and most advanced text-to-image AI model
 
 # Stability.ai and Stable Diffusion
 
+
+![Static Badge](https://img.shields.io/badge/Cameron_Burgess-Made_this_Case_Study-green)
+
 ## Overview and Origin
 
-* **Name of Company:** 
+* **Company:** 
   - Stability.ai
 
 * **When was the company incorporated?** 
   - Stability.ai was incorporated in 2021.
 
 * **Who are the founders of the company?** 
-  - The company was founded by Emad Mostaque.
+  - Emad Mostaque is a British Bengali male and was the founder of this company but withdrawn from the company early 2024. There are 32 other founders but Emad is the one credited with being the most responsible with the success of stability.ai and the technology stable diffusion. 
 
 * **How did the idea for the company (or project) come about?** 
   - Stability.ai was created with the goal of democratizing artificial intelligence, particularly in the realm of generative models. The company's flagship project, Stable Diffusion, aims to make powerful image generation technologies accessible to a broader audience. The idea emerged from the desire to provide high-quality, open-source tools for creative and practical applications in AI.
