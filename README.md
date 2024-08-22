@@ -95,4 +95,6 @@ There models have good results and they are always improving.
 ![./basic_diffusion_model.png](https://github.com/KingCam12/ai-case-study/blob/601240d984cfb9149c5fc766d8b884cbe07c159a/basic%20diffusion%20model.png)
 * **Link to there website.**
   [Stability.ai](https://www.stability.ai)
+
+
 *** Other Sources ***
