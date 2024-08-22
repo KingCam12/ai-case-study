@@ -91,7 +91,7 @@ There models have good results and they are always improving.
 * **Why are these technologies appropriate for your solution?** 
   - These technologies align with Stability.ai’s existing expertise in generative AI and image processing. By building on their current capabilities, the company can offer enhanced functionalities that meet the evolving needs of their user base while maintaining their position at the forefront of AI innovation.
 
-# An Example of a Diffusion modle code structure
+# An Example of a Diffusion model code structure
 
 * **Link to there website.**
   [Stability.ai](https://www.stability.ai)
