@@ -54,39 +54,22 @@ There models have good results and they are always improving.
 
 ## Landscape
 
-* **What field is the company in?** 
-  - Stability.ai operates in the field of artificial intelligence, specifically in generative AI and computer vision.
 
-* **What have been the major trends and innovations of this field over the last 5–10 years?** 
-  - Major trends include the development of more sophisticated generative models, such as Generative Adversarial Networks (GANs) and diffusion models. Innovations have focused on improving image quality, model efficiency, and the ability to generate complex and varied outputs. There has also been a significant movement towards open-source AI tools and democratization of AI technology.
+  Stability.ai operates in the field of artificial intelligence, specifically in generative AI and computer vision. Major trends include the development of more sophisticated generative models, such as Generative Adversarial Networks (GANs) and diffusion models. Innovations have focused on improving image quality, model efficiency, and the ability to generate complex and varied outputs. There has also been a significant movement towards open-source AI tools and democratization of AI technology. Other major companies in the generative AI field include OpenAI (known for GPT and DALL-E), Google DeepMind, and Adobe (with its various AI-powered tools). These companies also work on advanced generative models and AI technologies.
 
-* **What are the other major companies in this field?** 
-  - Other major companies in the generative AI field include OpenAI (known for GPT and DALL-E), Google DeepMind, and Adobe (with its various AI-powered tools). These companies also work on advanced generative models and AI technologies.
+## Results and Future tech
 
-## Results
-
-* **What has been the business impact of this company so far?** 
-  - Stability.ai has made a substantial impact by popularizing the use of diffusion models and providing accessible AI tools for image generation. The widespread adoption of Stable Diffusion has influenced various creative industries and has set a precedent for open-source AI projects.
-
-* **What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?** 
-  - Core metrics include the number of active users, model performance (such as image quality and generation speed), and community engagement (such as contributions to the open-source ecosystem). Stability.ai has seen high adoption rates and substantial community engagement, indicating strong performance in these metrics.
-
-* **How is your company performing relative to competitors in the same field?** 
-  - Stability.ai’s open-source approach and accessibility give it a unique position compared to competitors who may have more proprietary models. While companies like OpenAI have high-profile tools, Stability.ai's emphasis on open-source and community-driven development differentiates it and has garnered significant attention and use within the AI and creative communities.
+Stability.ai has made a substantial impact by popularizing the use of diffusion models and providing accessible AI tools for image generation. The widespread adoption of Stable Diffusion has influenced various creative industries and has set a precedent for open-source AI projects. Core metrics include the number of active users, model performance (such as image quality and generation speed), and community engagement (such as contributions to the open-source ecosystem). Stability.ai has seen high adoption rates and substantial community engagement, indicating strong performance in these metrics. Stability.ai’s open-source approach and accessibility give it a unique position compared to competitors who may have more proprietary models. While companies like OpenAI have high-profile tools, Stability.ai's emphasis on open-source and community-driven development differentiates it and has garnered significant attention and use within the AI and creative communities.
 
 ## Recommendations
 
-* **If you were to advise the company, what products or services would you suggest they offer?** 
-  - I would recommend developing a suite of complementary tools that enhance the capabilities of Stable Diffusion, such as automated image editing features, integration with popular design software, or enhanced customization options for specific industries (e.g., fashion design, architectural visualization).
+  I would recommend developing a suite of complementary tools that enhance the capabilities of Stable Diffusion, such as automated image editing features, integration with popular design software, or enhanced customization options for specific industries (e.g., fashion design, architectural visualization). These additional tools would provide users with more comprehensive solutions, making Stability.ai’s offerings more appealing to a broader range of professionals. This could drive further adoption and increase the company's revenue streams by providing premium or enterprise-level features.
 
-* **Why do you think that offering this product or service would benefit the company?** 
-  - These additional tools would provide users with more comprehensive solutions, making Stability.ai’s offerings more appealing to a broader range of professionals. This could drive further adoption and increase the company's revenue streams by providing premium or enterprise-level features.
+* **Additional Utilization** 
+Technologies could include advanced machine learning algorithms, real-time image processing capabilities, and APIs for integration with other software platforms. Tools for automated image editing would likely leverage AI techniques such as deep learning and computer vision.
 
-* **What technologies would this additional product or service utilize?** 
-  - Technologies could include advanced machine learning algorithms, real-time image processing capabilities, and APIs for integration with other software platforms. Tools for automated image editing would likely leverage AI techniques such as deep learning and computer vision.
-
-* **Why are these technologies appropriate for your solution?** 
-  - These technologies align with Stability.ai’s existing expertise in generative AI and image processing. By building on their current capabilities, the company can offer enhanced functionalities that meet the evolving needs of their user base while maintaining their position at the forefront of AI innovation.
+* **Using this tech to innovate my field** 
+  In addition with the power of Large language models and seemless information transfer along with increased hardware capabiliies this tech will most likely be used more and more in job spaces especially areas that reqire information recovered from visual data. 
 
 ## An Example of a Diffusion model code structure
 ![./basic_diffusion_model.png](https://github.com/KingCam12/ai-case-study/blob/601240d984cfb9149c5fc766d8b884cbe07c159a/basic%20diffusion%20model.png)
