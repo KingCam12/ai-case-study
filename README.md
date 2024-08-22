@@ -4,7 +4,7 @@
 
 ## ⚠️ **Important Considerations**
 
-> **Warning:** AI technology, while powerful, must be used ethically to global world domination
+> **Warning:** AI technology, while powerful, must be used ethically to avoid global world domination. Thank you!
 
 
 
