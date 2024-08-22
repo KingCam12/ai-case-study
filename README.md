@@ -20,7 +20,7 @@ Stability AI is committed to ethical AI development, ensuring that their models 
 
 * **Company:** 
   - Stability.ai
-
+![Logo](https://github.com/KingCam12/ai-case-study/blob/3f241fde139a66a86270886b11ed7c9b3c4e87fa/StabilityAi_Logo_White-19.png)
 * **When was the company incorporated?** 
   - Stability.ai was incorporated in 2021.
 
