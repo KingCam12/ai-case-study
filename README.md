@@ -1,11 +1,21 @@
+# Stability.ai and Stable Diffusion a Case Study
+## <div style="border-left: 4px solid #f00; padding: 10px; background-color: #ffe6e6;">
 
-                                                                                                        # Stability.ai and Stable Diffusion
+
+## ⚠️ **Important Considerations**
+
+> **Warning:** AI technology, while powerful, must be used ethically to global world domination
+
+
+
 
 ![Banner](Stability.ai.png)
 
 
 ![Static Badge](https://img.shields.io/badge/Cameron_Burgess-Made_this_Case_Study-green)
 
+
+Stability AI is committed to ethical AI development, ensuring that their models are transparent and fair.
 ## Overview and Origin
 
 * **Company:** 
@@ -72,6 +82,8 @@
 
 * **Why are these technologies appropriate for your solution?** 
   - These technologies align with Stability.ai’s existing expertise in generative AI and image processing. By building on their current capabilities, the company can offer enhanced functionalities that meet the evolving needs of their user base while maintaining their position at the forefront of AI innovation.
+
+# An Example of a Diffusion modle code structure
 
 * **Link to there website.**
   [Stability.ai](https://www.stability.ai)
