@@ -9,7 +9,7 @@ Stable Diffusion 3 Medium is the latest and most advanced text-to-image AI model
 
 # Stability.ai and Stable Diffusion
 
-![Banner](Stability.ai_Case_Study.png)
+![Banner](Stability.ai_Case_Study.png)/n
 ![Static Badge](https://img.shields.io/badge/Cameron_Burgess-Made_this_Case_Study-green)
 
 ## Overview and Origin
