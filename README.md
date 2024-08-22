@@ -5,7 +5,7 @@ Industry: Art Generation
 https://stability.ai/ 
 Stable Diffusion 3 Medium is the latest and most advanced text-to-image AI model in our Stable Diffusion 3 series, comprising two billion parameters. (Quote)
 
-
+![Banner]("C:\Users\camer\OneDrive\Desktop\Case study stuff\Stability.ai_Case_Study.png")
 
 # Stability.ai and Stable Diffusion
 
