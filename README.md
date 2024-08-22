@@ -22,7 +22,7 @@ Stability AI is committed to ethical AI development, ensuring that their models 
 The compnay chosen for this case study was Stability.ai creators of Stable Diffusion, which utilizes diffusion model technology to create networks that can create images, videos, and even music that is comparable to work a human would have done. 
 
 ![Logo](https://github.com/KingCam12/ai-case-study/blob/3f241fde139a66a86270886b11ed7c9b3c4e87fa/StabilityAi_Logo_White-19.png)
-
+---
 Stability.ai was incorporated in 2021. By the most recognizable founding member Emad Mostaque is a British Bengali male and was the founder of this company but withdrawn from the company early 2024. There are 32 other founders but Emad is the one credited with being the most responsible with the success of stability.ai and the technology stable diffusion. 
 
 Stability.ai was created with the goal of democratizing artificial intelligence, particularly in the realm of generative models. The company's flagship project, Stable Diffusion, aims to make powerful image generation technologies accessible to a broader audience. The idea emerged from the desire to provide high-quality, open-source tools for creative and practical applications in AI.
@@ -90,8 +90,10 @@ There models have good results and they are always improving.
 
 ## An Example of a Diffusion model code structure
 ![./basic_diffusion_model.png](https://github.com/KingCam12/ai-case-study/blob/601240d984cfb9149c5fc766d8b884cbe07c159a/basic%20diffusion%20model.png)
+
+---
 * **Link to there website.**
   [Stability.ai](https://www.stability.ai)
 
-
-*** Other Sources ***
+* **Other Sources.**
+[Wikipedia](https://en.wikipedia.org/wiki/Stability_AI)
